@@ -54,7 +54,7 @@
     "babel-eslint": "^8.2.6",
     "babel-loader": "^7.1.5",
     "babel-preset-env": "^1.7.0",
-    "copy-webpack-plugin": "^4.5.2",
+    "copy-webpack-plugin": "^4.5.3",
     "docdash": "^1.0.0",
     "eslint": "^5.3.0",
     "eslint-config-scratch": "^5.0.0",
